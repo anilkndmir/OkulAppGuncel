@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FSf3xTxNDnsFQFzJuZW6SXJzzTfqsPXyje4GlbQCcve01AidjljS481DyMDTJqzTMWtWtc4QGlImPX1u7h25sw==",
+  "dgSpecHash": "9K42FiaILlSFISzB18LV4LvoOpTHtECdsl9RaRiChs9qh8FEW8Zrpd8qlfE2c7ihEsBvd1RopVzH8BzMQstNDA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kande\\source\\repos\\HelloWindowsBILSube1\\OkulAppSube1BIL\\ClassLibrary1\\DAL.csproj",
+  "projectFilePath": "C:\\Users\\kande\\OneDrive\\Belgeler\\GitHub\\OkulAppGuncel\\OkulAppSube1BIL\\ClassLibrary1\\OkulApp.DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kande\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\kande\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

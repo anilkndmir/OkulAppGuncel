@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kande\\Source\\Repos\\HelloWindowsBILSube1\\OkulAppSube1BIL\\OkulApp.MODEL\\OkulApp.MODEL.csproj",
+      "projectUniqueName": "C:\\Users\\kande\\OneDrive\\Belgeler\\GitHub\\OkulAppGuncel\\OkulAppSube1BIL\\OkulApp.MODEL\\OkulApp.MODEL.csproj",
       "projectName": "OkulApp.MODEL",
-      "projectPath": "C:\\Users\\kande\\Source\\Repos\\HelloWindowsBILSube1\\OkulAppSube1BIL\\OkulApp.MODEL\\OkulApp.MODEL.csproj",
+      "projectPath": "C:\\Users\\kande\\OneDrive\\Belgeler\\GitHub\\OkulAppGuncel\\OkulAppSube1BIL\\OkulApp.MODEL\\OkulApp.MODEL.csproj",
       "packagesPath": "C:\\Users\\kande\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kande\\Source\\Repos\\HelloWindowsBILSube1\\OkulAppSube1BIL\\OkulApp.MODEL\\obj\\",
+      "outputPath": "C:\\Users\\kande\\OneDrive\\Belgeler\\GitHub\\OkulAppGuncel\\OkulAppSube1BIL\\OkulApp.MODEL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kande\\AppData\\Roaming\\NuGet\\NuGet.Config",

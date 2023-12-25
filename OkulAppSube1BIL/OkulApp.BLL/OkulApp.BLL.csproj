@@ -9,7 +9,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ClassLibrary1\DAL.csproj" />
+    <ProjectReference Include="..\ClassLibrary1\OkulApp.DAL.csproj" />
     <ProjectReference Include="..\OkulApp.MODEL\OkulApp.MODEL.csproj" />
   </ItemGroup>
 

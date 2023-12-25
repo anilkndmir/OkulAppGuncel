@@ -1000,11 +1000,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kande\\source\\repos\\HelloWindowsBILSube1\\OkulAppSube1BIL\\ClassLibrary1\\DAL.csproj",
-      "projectName": "DAL",
-      "projectPath": "C:\\Users\\kande\\source\\repos\\HelloWindowsBILSube1\\OkulAppSube1BIL\\ClassLibrary1\\DAL.csproj",
+      "projectUniqueName": "C:\\Users\\kande\\OneDrive\\Belgeler\\GitHub\\OkulAppGuncel\\OkulAppSube1BIL\\ClassLibrary1\\OkulApp.DAL.csproj",
+      "projectName": "OkulApp.DAL",
+      "projectPath": "C:\\Users\\kande\\OneDrive\\Belgeler\\GitHub\\OkulAppGuncel\\OkulAppSube1BIL\\ClassLibrary1\\OkulApp.DAL.csproj",
       "packagesPath": "C:\\Users\\kande\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kande\\source\\repos\\HelloWindowsBILSube1\\OkulAppSube1BIL\\ClassLibrary1\\obj\\",
+      "outputPath": "C:\\Users\\kande\\OneDrive\\Belgeler\\GitHub\\OkulAppGuncel\\OkulAppSube1BIL\\ClassLibrary1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kande\\AppData\\Roaming\\NuGet\\NuGet.Config",

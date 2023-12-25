@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kande\\source\\repos\\HelloWindowsBILSube1\\OkulAppSube1BIL\\OkulApp.BLL\\OkulApp.BLL.csproj": {}
+    "C:\\Users\\kande\\OneDrive\\Belgeler\\GitHub\\OkulAppGuncel\\OkulAppSube1BIL\\OkulApp.BLL\\OkulApp.BLL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kande\\source\\repos\\HelloWindowsBILSube1\\OkulAppSube1BIL\\ClassLibrary1\\DAL.csproj": {
+    "C:\\Users\\kande\\OneDrive\\Belgeler\\GitHub\\OkulAppGuncel\\OkulAppSube1BIL\\ClassLibrary1\\OkulApp.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kande\\source\\repos\\HelloWindowsBILSube1\\OkulAppSube1BIL\\ClassLibrary1\\DAL.csproj",
-        "projectName": "DAL",
-        "projectPath": "C:\\Users\\kande\\source\\repos\\HelloWindowsBILSube1\\OkulAppSube1BIL\\ClassLibrary1\\DAL.csproj",
+        "projectUniqueName": "C:\\Users\\kande\\OneDrive\\Belgeler\\GitHub\\OkulAppGuncel\\OkulAppSube1BIL\\ClassLibrary1\\OkulApp.DAL.csproj",
+        "projectName": "OkulApp.DAL",
+        "projectPath": "C:\\Users\\kande\\OneDrive\\Belgeler\\GitHub\\OkulAppGuncel\\OkulAppSube1BIL\\ClassLibrary1\\OkulApp.DAL.csproj",
         "packagesPath": "C:\\Users\\kande\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kande\\source\\repos\\HelloWindowsBILSube1\\OkulAppSube1BIL\\ClassLibrary1\\obj\\",
+        "outputPath": "C:\\Users\\kande\\OneDrive\\Belgeler\\GitHub\\OkulAppGuncel\\OkulAppSube1BIL\\ClassLibrary1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kande\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -70,14 +70,14 @@
         }
       }
     },
-    "C:\\Users\\kande\\source\\repos\\HelloWindowsBILSube1\\OkulAppSube1BIL\\OkulApp.BLL\\OkulApp.BLL.csproj": {
+    "C:\\Users\\kande\\OneDrive\\Belgeler\\GitHub\\OkulAppGuncel\\OkulAppSube1BIL\\OkulApp.BLL\\OkulApp.BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kande\\source\\repos\\HelloWindowsBILSube1\\OkulAppSube1BIL\\OkulApp.BLL\\OkulApp.BLL.csproj",
+        "projectUniqueName": "C:\\Users\\kande\\OneDrive\\Belgeler\\GitHub\\OkulAppGuncel\\OkulAppSube1BIL\\OkulApp.BLL\\OkulApp.BLL.csproj",
         "projectName": "OkulApp.BLL",
-        "projectPath": "C:\\Users\\kande\\source\\repos\\HelloWindowsBILSube1\\OkulAppSube1BIL\\OkulApp.BLL\\OkulApp.BLL.csproj",
+        "projectPath": "C:\\Users\\kande\\OneDrive\\Belgeler\\GitHub\\OkulAppGuncel\\OkulAppSube1BIL\\OkulApp.BLL\\OkulApp.BLL.csproj",
         "packagesPath": "C:\\Users\\kande\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kande\\source\\repos\\HelloWindowsBILSube1\\OkulAppSube1BIL\\OkulApp.BLL\\obj\\",
+        "outputPath": "C:\\Users\\kande\\OneDrive\\Belgeler\\GitHub\\OkulAppGuncel\\OkulAppSube1BIL\\OkulApp.BLL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kande\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -94,11 +94,11 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "C:\\Users\\kande\\source\\repos\\HelloWindowsBILSube1\\OkulAppSube1BIL\\ClassLibrary1\\DAL.csproj": {
-                "projectPath": "C:\\Users\\kande\\source\\repos\\HelloWindowsBILSube1\\OkulAppSube1BIL\\ClassLibrary1\\DAL.csproj"
+              "C:\\Users\\kande\\OneDrive\\Belgeler\\GitHub\\OkulAppGuncel\\OkulAppSube1BIL\\ClassLibrary1\\OkulApp.DAL.csproj": {
+                "projectPath": "C:\\Users\\kande\\OneDrive\\Belgeler\\GitHub\\OkulAppGuncel\\OkulAppSube1BIL\\ClassLibrary1\\OkulApp.DAL.csproj"
               },
-              "C:\\Users\\kande\\source\\repos\\HelloWindowsBILSube1\\OkulAppSube1BIL\\OkulApp.MODEL\\OkulApp.MODEL.csproj": {
-                "projectPath": "C:\\Users\\kande\\source\\repos\\HelloWindowsBILSube1\\OkulAppSube1BIL\\OkulApp.MODEL\\OkulApp.MODEL.csproj"
+              "C:\\Users\\kande\\OneDrive\\Belgeler\\GitHub\\OkulAppGuncel\\OkulAppSube1BIL\\OkulApp.MODEL\\OkulApp.MODEL.csproj": {
+                "projectPath": "C:\\Users\\kande\\OneDrive\\Belgeler\\GitHub\\OkulAppGuncel\\OkulAppSube1BIL\\OkulApp.MODEL\\OkulApp.MODEL.csproj"
               }
             }
           }
@@ -139,14 +139,14 @@
         }
       }
     },
-    "C:\\Users\\kande\\source\\repos\\HelloWindowsBILSube1\\OkulAppSube1BIL\\OkulApp.MODEL\\OkulApp.MODEL.csproj": {
+    "C:\\Users\\kande\\OneDrive\\Belgeler\\GitHub\\OkulAppGuncel\\OkulAppSube1BIL\\OkulApp.MODEL\\OkulApp.MODEL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kande\\source\\repos\\HelloWindowsBILSube1\\OkulAppSube1BIL\\OkulApp.MODEL\\OkulApp.MODEL.csproj",
+        "projectUniqueName": "C:\\Users\\kande\\OneDrive\\Belgeler\\GitHub\\OkulAppGuncel\\OkulAppSube1BIL\\OkulApp.MODEL\\OkulApp.MODEL.csproj",
         "projectName": "OkulApp.MODEL",
-        "projectPath": "C:\\Users\\kande\\source\\repos\\HelloWindowsBILSube1\\OkulAppSube1BIL\\OkulApp.MODEL\\OkulApp.MODEL.csproj",
+        "projectPath": "C:\\Users\\kande\\OneDrive\\Belgeler\\GitHub\\OkulAppGuncel\\OkulAppSube1BIL\\OkulApp.MODEL\\OkulApp.MODEL.csproj",
         "packagesPath": "C:\\Users\\kande\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kande\\source\\repos\\HelloWindowsBILSube1\\OkulAppSube1BIL\\OkulApp.MODEL\\obj\\",
+        "outputPath": "C:\\Users\\kande\\OneDrive\\Belgeler\\GitHub\\OkulAppGuncel\\OkulAppSube1BIL\\OkulApp.MODEL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kande\\AppData\\Roaming\\NuGet\\NuGet.Config",
